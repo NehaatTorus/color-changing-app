@@ -11,6 +11,19 @@
     justify-content: center;
     align-items: center;
 }
+#canvas1{
+    background-color: blue;
+    color: violet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    width: 600px;
+    height: 500px;
+    margin: 50px auto 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 #button{
     text-align: center;
